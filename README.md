@@ -49,8 +49,8 @@ This project demonstrates an **IoT-based simulated solution** where the fan and 
 
 
 ---
-##Files in Repositary
--CPT file
--Project report:
--Demo: 
+## Files in Repositary
+-CPT file: 'Room Auto.pkt'
+-Project report: 'cpt_report_doc.pdf'
+-Demo: 'Room Auto Demo.mp4'
 
