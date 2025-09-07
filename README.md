@@ -45,12 +45,6 @@ This project demonstrates an **IoT-based simulated solution** where the fan and 
 
 ## Results / Demo
 - Successful remote control of **fan** and **lamp** using Packet Tracer’s IoT dashboard.
-- Screenshot: *(Insert your image here)*  
-- Video Demo: *(Insert link to demo video here)*
+
 
 ---
-
-## Files in This Repository
-- `RoomAutomation.pkt` – Cisco Packet Tracer file  
-- `Report.pdf` – Detailed project report  
-- `Demo.mp4` – Screen recording of the simulation
